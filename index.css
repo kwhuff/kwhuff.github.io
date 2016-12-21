@@ -1,0 +1,90 @@
+*{
+  box-sizing: border-box;
+}
+img{
+  /*width: 100%;*/
+}
+.bioPic{
+  height: 300px;
+  /*margin-top: 150px;*/
+  margin-right: auto;
+  /*align-items: center;*/
+  /*float: right;*/
+  /*padding-right: 10px;*/
+  margin-left: auto;
+  display: block;
+  /*border: 4px solid #1C2541;*/
+}
+.headerContent{
+  padding-top: 75px;
+  background-color: #3A506B;
+  height: 600px;
+  border-bottom: 4px solid #1C2541;
+}
+.bioText{
+  font-size: 30px;
+  font-family: 'Yantramanav', sans-serif;
+  color: white;
+  letter-spacing: 6px;
+}
+.bioName{
+  color: white;
+  font-family: 'Yantramanav', sans-serif;
+  letter-spacing: 6px;
+}
+.icons{
+  font-size: 30px;
+  color: white;
+  letter-spacing: 6px;
+}
+.icons:hover{
+
+}
+h2{
+  font-family: 'Yantramanav', sans-serif;
+  color: #3A506B;
+}
+h4{
+  font-family: 'Yantramanav', sans-serif;
+  color: #1C2541;
+}
+.aboutText{
+  color:#1C2541;
+  line-height: 30px;
+  /*letter-spacing: 2px;*/
+}
+.projectImage{
+  height: 150px;
+  float: right;
+  margin-right: 50px;
+}
+.vocalText{
+  color:#1C2541;
+  line-height: 30px;
+  margin-right: 30px;
+}
+.footerContent{
+  background-color: #3A506B;
+  height: 200px;
+  margin-top: 100px;
+  border-top: 4px solid #1C2541;
+  border-bottom: 40px solid #1C2541;
+}
+h3{
+  font-family: 'Yantramanav', sans-serif;
+  color: white;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.contactLinks{
+  font-family: 'Yantramanav', sans-serif;
+  color: white;
+  font-size: 20px;
+  margin-top: 35px;
+}
+.col-sm-4 > a{
+  color: white;
+}
+.col-sm-12 > a{
+  color: white;
+}

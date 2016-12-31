@@ -89,3 +89,12 @@ h3{
 .col-sm-12 > a{
   color: white;
 }
+@media (max-width: 600px){
+  .projectImage{
+    margin-right: 0;
+  }
+  .footerContent{
+    border-top: 0;
+    border-bottom: 120px solid #1C2541;
+  }
+}

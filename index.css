@@ -70,6 +70,12 @@ h4{
   margin-top: 100px;
   border-top: 4px solid #1C2541;
   border-bottom: 40px solid #1C2541;
+  padding-left: 0;
+  padding-right: 0;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
 }
 h3{
   font-family: 'Yantramanav', sans-serif;
